@@ -1,3 +1,5 @@
+//This is the arduino code for this project, should be directly uploaded to your arduino.
+
 #include<Servo.h>
 
 Servo serX;
