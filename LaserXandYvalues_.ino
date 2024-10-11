@@ -1,4 +1,5 @@
 //This is the arduino code for this project, should be directly uploaded to your arduino.
+//This code will tell your arduino what signals to send to each servo motor to correctly orient the laser in the right direction.
 
 #include<Servo.h>
 
