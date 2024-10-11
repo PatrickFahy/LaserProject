@@ -9,6 +9,7 @@ The main components I used were:
 3 5V Power supplies, (the connectors dont matter) (any other power source will do)
 1 Breadboard,
 10-12 DuPont wires, (can be bought in packs of 40 for about €3 euro)
+and a Soldering Iron or a Hot glue gun.
 
 
 This is all the essential equipment I used to build this project.
