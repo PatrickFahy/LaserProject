@@ -1,4 +1,5 @@
-//This is the C# code to be used in your Windows Forms application, it will be sent via usb to your Arduino
+//This is the C# code to be used in your Windows Forms application,
+//the main point of this file is to find your mouses position on the winform and send that data via serial (usb) to the Arduino.
 
 
 using System;
